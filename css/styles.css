@@ -1,0 +1,11 @@
+.image-tile {
+  display: inline-block;
+  width: 32.6%;
+  text-align: center;
+}
+
+figure img {
+  width: 100%;
+  margin: 0 5px;
+  border-radius: 5px;
+}
